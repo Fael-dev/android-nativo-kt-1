@@ -6,5 +6,4 @@ import com.example.orgs.R
 
 class FormularioProdutoActivity : AppCompatActivity(
     R.layout.activity_formulario_produto
-) {
-}
+)
